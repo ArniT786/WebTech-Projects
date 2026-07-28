@@ -1,0 +1,15 @@
+FastAPI Backend চালু করতে:
+
+একটি টার্মিনাল খুলে D:\arnima web app project\backend ফোল্ডারে যান।
+ভার্চুয়াল এনভায়রনমেন্ট অ্যাক্টিভেট করুন: .\venv\Scripts\Activate.ps1
+সার্ভার রান করুন:.\venv\Scripts\uvicorn main:app --reload(এটি http://localhost:8000-এ চালু হবে)।
+API docs calu korte: http://localhost:8000/docs
+React Frontend চালু করতে:
+
+আরেকটি টার্মিনাল খুলে D:\arnima web app project\frontend ফোল্ডারে যান।
+রান করুন: npm run dev (এটি http://localhost:5173-এ চালু হবে)।
+লগইন করার জন্য ব্যবহার করুন:
+
+Username: admin
+Password: admin123
+আপনার প্রজেক্টটি সম্পূর্ণ রেডি। আপনি চাইলে আমি এখনই টার্মিনাল থেকে ব্যাকএন্ড এবং ফ্রন্টএন্ড রান করে দিতে পারি!
